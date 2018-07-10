@@ -1,5 +1,5 @@
 body {
-	background-image: url('D:/my files/swapnali doc/Html and CSSS project/7.jpg');
+	background-image: url('D:/html5 and css5 resposive website/4.jpg');
 	color: #000305;
 	font-size: 100%;
 	font-family: Arial, 'Lucida Sans Unicode';
@@ -12,12 +12,12 @@ a {
 }
 
 a:link, a:visited {
-	color: #CF5C3F;
+	color: #00F;
 
 }
 
 a:hover, a:active {
-	background-color: #CF5C3F;
+	background-color: #00F;
 	color: #FFF;
 }
 
@@ -62,7 +62,7 @@ a:hover, a:active {
 
 .mainHeader nav a:hover, mainHeader nav a:active,
 .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-	background-color: #CF5C3F;
+	background-color: #00F;
 	text-shadow: none;
 }
 
@@ -119,7 +119,7 @@ a:hover, a:active {
 
 }
 
-.left {
+/*.left {
 	width: 15%;
 	height: 10%;
 	float: left;
@@ -159,7 +159,7 @@ a:hover, a:active {
 	height: 10%;
 	
 	float: left;
-	/*padding-left: 10%;*/
+	
 	background-color: #FFF;
 	border-radius: 100px;
 	border-top-width: 100px;
@@ -172,7 +172,7 @@ a:hover, a:active {
 	padding: 5% 5%;
 	
 	
-}
+}*/
 
 .mainFooter {
 	width: 100%;
@@ -272,15 +272,12 @@ a:hover, a:active {
 }
 
 
-	.left, .middle, .right {
+	/*.left, .middle, .right {
 	width: 80%;
 	margin: 2% 0 2% 0;
-	padding: 10% 10%;
+	padding: 10% 10%;*/
 	
 
 }
-
-
-
 
 }
